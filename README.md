@@ -1,7 +1,7 @@
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) or (https://willowy-dusk-9b8224.netlify.app/)to view it in your browser.
+Open [http://localhost:3000](http://localhost:3000) or (https://willowy-dusk-9b8224.netlify.app/) to view it in your browser.
 
 
 # AI Tools Hub
