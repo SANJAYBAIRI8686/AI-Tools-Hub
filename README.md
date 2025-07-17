@@ -6,7 +6,7 @@ Open [http://localhost:3000](http://localhost:3000) or (https://willowy-dusk-9b8
 
 # AI Tools Hub
 
-A modern, responsive website listing the best AI tools, inspired by Aixploria. Built with React, featuring a beautiful animated background, category filters, and a huge collection of AI tools for text, image, video, audio, code, and productivity.
+A modern, responsive website listing the best AI tools, inspired by Aixploria. Built with React, with category filters, and a huge collection of AI tools for text, image, video, audio, code, and productivity.
 
 ## Features
 - 🚀 Modern, clean, and responsive UI
